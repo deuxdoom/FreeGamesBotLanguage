@@ -1,0 +1,66 @@
+{
+   "help_menu":{
+      "title":"도움말 메뉴",
+      "commands":{
+         "help":"이 도움말 메뉴를 불러옴",
+         "config":"이 봇에 토글을 저장하거나 언어를 변경함",
+         "get":"현재 무료 게임 정보를 가져옴",
+         "setup":"알림 채널을 설정함",
+         "stop":"알림 보내기를 정지함",
+         "role":" 역할을 지정함"
+      },
+      "support":{
+         "name":"💎 이 봇의 개발을 지원하고 싶다면",
+         "value":"   이곳에서 투표를 해주세요. [링크](https://top.gg/bot/698117737175580692)"
+      },
+      "discord":{
+         "name":"🔗 우리 서버 역시 존재합니다.",
+         "value":"  서버에 조인하고 싶다면 클릭! [링크](https://discord.gg/wzF9qfC)"
+      }
+   },
+   "commands":{
+      "insufficient_permissions":"죄송합니다. 당신은 이 명령어를 실행할 권한을 가지고 있지 않습니다.",
+      "not_setup":"이 명령어를 사용하기 전에 setup부터 해주세요.",
+      "no_args":"이 명령어는 argument를 필요로 합니다.",
+      "setup":{
+         "updated":"어나운스 채널을 성공적으로 업데이트 했습니다.",
+         "success1":"셋업 완료",
+         "success2":"어나운스 테스트."
+      },
+      "stop":{
+         "success":"알겠습니다. 업데이트 보내기를 중단합니다!"
+      },
+      "role":{
+         "tag_a_role":"무료를 알릴 역할을 지정하세요.",
+         "everyone":"everyone에게 새로운 무료 게임을 알려줍니다.",
+         "role_success":"이제부터 새로운 게임을 알릴 역할로 지정되었습니다.",
+         "stopped":"아무 역할도 지정되지 않았습니다."
+      },
+      "config":{
+         "title":"Free Games Bot 설정",
+         "description":"이 메세지 하단의 토글 옵션을 저장하건아 언어를 설정하세요.",
+         "toggle":"원하는 옵션을 클릭하여 토글 온/오프 하세요.",
+         "language":"이 봇의 원하는 언어를 클릭해서 지정하세요."
+      },
+      "invite":{
+         "thanks":"관심을 가져주셔서 감사합니다!"
+      },
+      "setprefix":{
+         "changed":"변경된 Prefix:"
+      }
+   },
+   "free_games_embed_get":{
+      "title":"무료 게임들!",
+      "no_games":"현재 무료인 게임이 없습니다!"
+   },
+   "free_games_embed_announce":{
+      "perms_missing":"어나운스할 권한이 부족합니다! 권한 없음:",
+      "free_until":"Free Until",
+      "state":"상태",
+      "support_us":{
+         "name":"지원해 주세요",
+         "value":"[우리 서버에 조인](https://discordapp.com/invite/wzF9qfC)\n[이 봇을 얻기](https://top.gg/bot/698117737175580692)"
+      },
+      "footer":"이름을 클릭하면 저장됩니다."
+   }
+}
