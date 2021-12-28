@@ -81,7 +81,7 @@ Add your language to the Free Games Bot!
 | Kinyarwanda           | RW   |                |                |       |
 | Kirghiz               | KY   |                |                |       |
 | Kirundi               | RN   |                |                |       |
-| Korean                | KO   |                |                |       |
+| Korean                | KO   | SAKURA#0001    |                | ✅    |
 | Kurdish               | KU   |                |                |       |
 | Laothian              | LO   |                |                |       |
 | Latin                 | LA   |                |                |       |
